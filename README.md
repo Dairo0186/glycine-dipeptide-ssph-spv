@@ -31,7 +31,7 @@ gaussian/saddles/                  TS and mode-displacement opt+freq logs
 gaussian/periodic_reconciliation/  Boundary and restarted scan calculations
 ```
 
-The large Gaussian checkpoint and scratch files are intentionally excluded. The deposited `.log` files retain the route sections, molecular specifications, convergence information, frequencies, and final energies required to inspect the validation calculations.
+The large Gaussian checkpoint and scratch files are intentionally excluded. The deposited Gaussian outputs are losslessly compressed as `.log.gz`; after decompression they retain the route sections, molecular specifications, convergence information, frequencies, and final energies required to inspect the validation calculations.
 
 ## Reproducing the SSPH analysis
 

@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "Glycine Dipeptide SSPH-SPV: Data, Code, and Stationary-Point Validation"
+type: software
+version: 1.0.0
+date-released: 2026-10-13
+url: "https://github.com/Dairo0186/glycine-dipeptide-ssph-spv"
+authors:
+  - family-names: Hernández
+    given-names: Dairo José
+  - family-names: Cadavid
+    given-names: Carlos Alberto
+  - family-names: De Luque
+    given-names: Julio
+  - family-names: Fernández Bueno
+    given-names: David
+  - family-names: Vega
+    given-names: Rafael Ramiro
+preferred-citation:
+  type: article
+  title: "Topological Organization of the Gas-Phase Glycine Dipeptide Energy Landscape"
+  authors:
+    - family-names: Hernández
+      given-names: Dairo José
+    - family-names: Cadavid
+      given-names: Carlos Alberto
+    - family-names: De Luque
+      given-names: Julio
+    - family-names: Fernández Bueno
+      given-names: David
+    - family-names: Vega
+      given-names: Rafael Ramiro
+  journal: Molecules
+  year: 2026
+

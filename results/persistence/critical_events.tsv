@@ -1,0 +1,21 @@
+event	morse_index	category	topological_role	energy_kcal_mol	phi_deg	psi_deg
+M1	0	Minimum	Birth of H0	0.0	280.0	70.0
+M2	0	Minimum	Birth of H0	0.000583583834	80.0	290.0
+M3	0	Minimum	Birth of H0	1.834856603304	180.0	180.0
+M4	0	Minimum	Birth of H0	3.072192385591	240.0	20.0
+M5	0	Minimum	Birth of H0	3.073064623774	120.0	340.0
+S1	1	Index-1 saddle	Death of H0	3.160495522425	90.0	230.0
+S2	1	Index-1 saddle	Death of H0	3.160878303202	270.0	130.0
+S3	1	Index-1 saddle	Death of H0	3.167517353736	260.0	30.0
+S4	1	Index-1 saddle	Death of H0	3.168126037934	100.0	330.0
+S5	1	Index-1 saddle	Birth of H1	7.461389159581	0.0	0.0
+S6	1	Index-1 saddle	Birth of H1	8.262712515991	180.0	0.0
+S7	1	Index-1 saddle	Birth of H1	8.695970175153	120.0	50.0
+S8	1	Index-1 saddle	Birth of H1	8.696095677046	240.0	310.0
+S9	1	Index-1 saddle	Birth of H1	9.75893361758	350.0	280.0
+S10	1	Index-1 saddle	Birth of H1	9.759366599122	10.0	80.0
+X1	2	Index-2 maximum	Death of H1	9.023610708991	140.0	40.0
+X2	2	Index-2 maximum	Death of H1	9.023610708991	220.0	320.0
+X3	2	Index-2 maximum	Death of H1	10.033933380857	0.0	300.0
+X4	2	Index-2 maximum	Death of H1	10.035169574589	0.0	60.0
+X5	2	Index-2 maximum	Birth of H2	22.974942572564	0.0	180.0

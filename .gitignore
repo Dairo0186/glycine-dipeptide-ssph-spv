@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.chk
+*.fchk
+*.rwf
+*.int
+*.d2e
+*.scr
+

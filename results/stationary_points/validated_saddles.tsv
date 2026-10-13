@@ -1,0 +1,5 @@
+event	persistence_energy_kcal_mol	imaginary_frequency_cm-1	first_minimum	second_minimum	delta_E_dagger_from_first_kcal_mol	delta_E_dagger_from_second_kcal_mol	validation
+S1	3.160496	-48.6540	M2	M3	3.1560	1.3084	First-order saddle; mode-displacement optimizations converge to the listed minima
+S2	3.160878	-48.6549	M1	M3	3.1570	1.3084	First-order saddle; mode-displacement optimizations converge to the listed minima
+S3	3.167517	-56.9688	M1	M4	3.1877	0.1218	First-order saddle; mode-displacement optimizations converge to the listed minima
+S4	3.168126	-56.6635	M2	M5	3.1875	0.1213	First-order saddle; mode-displacement optimizations converge to the listed minima

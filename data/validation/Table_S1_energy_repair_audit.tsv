@@ -1,0 +1,10 @@
+phi_deg	psi_deg	old_energy_kcal_mol	new_energy_kcal_mol	delta_kcal_mol	source	reason
+180.0	-10.0	9.49436933729196	7.2336405618980075	-2.260728775393953	seam_psi_m010_start_phi540.log	lowest converged branch at equivalent phi endpoints
+540.0	-10.0	7.233647136749695	7.2336405618980075	-6.574851687091154e-06	seam_psi_m010_start_phi540.log	lowest converged branch at equivalent phi endpoints
+180.0	10.0	7.233640861649718	7.233649974547585	9.112897866536684e-06	seam_psi_p010_start_phi180.log	lowest converged branch at equivalent phi endpoints
+540.0	10.0	9.494287761063584	7.233649974547585	-2.260637786515999	seam_psi_p010_start_phi180.log	lowest converged branch at equivalent phi endpoints
+180.0	20.0	6.493355354285407	6.493350692686551	-4.661598856259275e-06	seam_psi_p020_start_phi180.log	lowest converged branch at equivalent phi endpoints
+540.0	20.0	10.788758283312731	6.493350692686551	-4.29540759062618	seam_psi_p020_start_phi180.log	lowest converged branch at equivalent phi endpoints
+220.0	-20.0	7.33676577286048	6.723206785507432	-0.6135589873530485	restart_phi220_psi_m020.log	restarted constrained optimization
+320.0	-100.0	15.609010158156126	15.099744785120473	-0.5092653730356531	restart_phi320_psi_m100.log	restarted constrained optimization
+320.0	-110.0	16.856542969809635	16.60206584432898	-0.2544771254806548	restart_phi320_psi_m110.log	restarted constrained optimization

@@ -1,0 +1,7 @@
+event	assignment	phi_deg	psi_deg	minimum_frequency_cm-1	imaginary_frequencies	delta_E_e_kcal_mol	delta_E_e_plus_ZPE_kcal_mol	delta_H_298_kcal_mol	delta_G_298_kcal_mol	population_percent
+M1	C7 pair	-81.3	68.1	49.6	0	0.000	0.004	0.003	0.132	29.9
+M2	C7 pair	81.3	-68.1	48.5	0	0.001	0.000	0.000	0.118	30.6
+M3	C5	-179.9	180.0	16.9	0	1.849	1.125	1.417	0.000	37.3
+M4	Open-type pair	-116.5	22.0	38.3	0	3.066	2.675	2.837	2.104	1.1
+M5	Open-type pair	116.6	-22.0	38.1	0	3.067	2.672	2.836	2.095	1.1
+
